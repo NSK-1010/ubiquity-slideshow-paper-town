@@ -1,0 +1,71 @@
+ubiquity-slideshow-zorin-os (2.1.1) bionic; urgency=medium
+
+  * Changed text colour
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Mon, 24 Feb 2020 14:08:50 +0000
+
+ubiquity-slideshow-zorin-os (2.1) bionic; urgency=medium
+
+  * Added OEM Config slideshow
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Wed, 06 Mar 2019 19:46:47 +0000
+
+ubiquity-slideshow-zorin-os (2.0) bionic; urgency=medium
+
+  * Updated artwork and changed font to Inter
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Tue, 26 Feb 2019 13:22:59 +0000
+
+ubiquity-slideshow-zorin-os (1.2) bionic; urgency=medium
+
+  * First version for Zorin OS 15
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sat, 29 Sep 2018 15:57:35 +0100
+
+ubiquity-slideshow-zorin-os (1.1.1) xenial; urgency=medium
+
+  * Fixed size of image to remove scrollbars
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 20 Nov 2016 22:43:25 +0000
+
+ubiquity-slideshow-zorin-os (1.1) xenial; urgency=medium
+
+  * Added Zorin logo to slide
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 20 Nov 2016 18:11:13 +0000
+
+ubiquity-slideshow-zorin-os (1.0) xenial; urgency=medium
+
+  * Ready for Zorin OS 12 stable
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 04 Nov 2016 17:32:11 +0000
+
+ubiquity-slideshow-zorin-os (0.9.4) xenial; urgency=medium
+
+  * Updated copyright notices
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Fri, 04 Nov 2016 14:44:58 +0000
+
+ubiquity-slideshow-zorin-os (0.9.3) xenial; urgency=medium
+
+  * Ready for public use in the Zorin OS 12 Beta
+
+ -- Artyom Zorin <azorin@zoringroup.com>  Sun, 18 Sep 2016 20:31:28 +0100
+
+ubiquity-slideshow-zorin-os (0.9.2) xenial; urgency=medium
+
+  * Added line break between paragraphs
+
+ -- Zorin OS <os@zoringroup.com>  Sun, 18 Sep 2016 01:45:53 +0100
+
+ubiquity-slideshow-zorin-os (0.9.1) xenial; urgency=medium
+
+  * Slideshow for Zorin OS 12 Beta
+
+ -- Zorin OS <os@zoringroup.com>  Sat, 17 Sep 2016 15:09:00 +0100
+
+ubiquity-slideshow-zorin-os (0.9) xenial; urgency=low
+
+  * Pre-release
+
+ -- Zorin OS <os@zoringroup.com>  Fri, 02 Sep 2016 10:47:51 -0400
